@@ -47,5 +47,31 @@ for i in range(0,len(b)):
 
 print(d)
 print(w)
+
+4)#Write a program, whichwill find all the numbers between 1000 and 3000 (both included) such that each digit of a number is an even number. The numbers obtained should be printed in a comma separated sequence on a single line.
+
+A=[]
+
+for i in range(1000,3000):
+    Num=str(i)
+    i=list(map(int,Num))
+    flag=0
+    for j in range(0,len(i)):
+        if(i[j]%2==0):
+            flag=1
+        else:
+            flag=0
+            break;
+    if(flag==1):
+        A.append(Num)
+
+print(A)
     
-    
+5)#Design a code which will find the given number is Palindrome number or not.
+
+A=input("Enter the Number:")
+
+if(A[0] == A[len(A)-1]):
+    print("Pallindrome")
+else:
+    print("Not a Palindrome")
