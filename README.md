@@ -6,8 +6,8 @@ Hello all I am Electronics and Communication Student and Welcome to my Python Pr
 
 Hopefully it should as well as help other Python Beginner Programmers like me :) 
 
-So, Programmers or Tech Savvys out there if you happen to see some errors or trouble in some test cases do help me out!!! 
+So, Programmers or Tech Savvys out there if you happen to see some errors or trouble in some test cases in the programs Do help me out!!! 
 
-I would like to thank Edureka Course on Python Programming Certification for the resoruces...
+I would like to thank Edureka Python Programming Course which helps as the resoruce of questions solved..
 
 Thank you
