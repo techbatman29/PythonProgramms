@@ -1,7 +1,7 @@
 """ You will find some basic problems using Sequences Concepts(Strings and Dictionary) and Pattern """
 
 
-1)#Checking the Password Strength Check 
+1)#Checking the Password Strength 
 
 Password=input('Enter the password:')
 
