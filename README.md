@@ -2,12 +2,15 @@
 
 Unlearn, Relearn and Learn has always been words of motivation for me...
 
-Hello all I am Electronics and Communication Student and Welcome to my Python Program Repository in here you will find some basic programms that I have practized for making myself familiarize with basic programming and to improve further in the process of learning Python. 
+Hello all I am Electronics and Communication Student and Welcome to my Python Program Repository
 
-Hopefully it should as well as help other Python Beginner Programmers like me :) 
+Here you will find some basic programs that I have practised to familiarize basic programming and improve further in the process of learning Python. 
 
-So, Programmers or Tech Savvys out there if you happen to see some errors or trouble in some test cases in the programs Do help me out!!! 
+Hopefully it may help other Python Beginner Programmers..
 
-I would like to thank Edureka Python Programming Course which helps as the resoruce of questions solved..
+So, Programmers or Tech Savvys out there, if you happen to see some errors in the given program.
+Do help me out!!! 
+
+I would like to thank Edureka Python Programming Course which helps as the resoruce of questions solved here..
 
 Thank you
